@@ -1,0 +1,23 @@
+{
+  "name": "node-express-https-test",
+  "version": "1.0.0",
+  "description": "adding ssl for https web server communications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dambergn/node-express-https-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dambergn/node-express-https-test/issues"
+  },
+  "homepage": "https://github.com/dambergn/node-express-https-test#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
